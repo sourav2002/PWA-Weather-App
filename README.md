@@ -5,6 +5,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Progressive web apps (PWAs)
 Progressive Web Apps (PWAs) are web apps that use service workers, manifests, and other web-platform features in combination with progressive enhancement to give users an experience on par with native apps.
 
+## Search
+<img src="https://github.com/sourav2002/PWA-Weather-App/blob/master/public/images/search.jpg" width="800" />
+
+## Data
+<img src="https://github.com/sourav2002/PWA-Weather-App/blob/master/public/images/data.jpg" width="800" />
+
+## PWA Report
+<img src="https://github.com/sourav2002/PWA-Weather-App/blob/master/public/images/pwa.jpg" width="800" />
+
+## Mobile View
+<img src="https://github.com/sourav2002/PWA-Weather-App/blob/master/public/images/mobile.jpg" width="800" />
+
 ## Available Scripts
 
 In the project directory, you can run:
